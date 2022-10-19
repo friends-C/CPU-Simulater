@@ -2,11 +2,11 @@
 
 This project simulates the work of CPU.
 
-There are 10 registers in this Fake CPU` r1, r2, r3, r4, r5, r6, r7, r8, r9, r10.
+There are 10 registers in this Fake CPU` R1, R2, R3, R4, R5, R6, R7, R8, R9, R10.
 
 The program gets an input assembly file with ".myasm" extension and executes the instructions.
 
-Instructions allowed` Mov, Add, Sub, Mul, Div, And, Or, Not, Xor, Test, Cmp, Jmp(je, jg, jle, jge, jz, jnz, jnle...)
+Instructions allowed` Mov, Add, Sub, Mul, Div, And, Or, Not, Xor, Cmp, Jmp(je, jg, jle, jge, jz, jnz, jnle...)
 
 To Compile print` make
 
