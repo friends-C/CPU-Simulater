@@ -1,0 +1,8 @@
+	mov r1 5
+b1:
+	mov r5,r1
+	add r5 r1
+lab:
+	dec r5
+	cmp r5 8
+	jne lab
